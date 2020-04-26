@@ -10,3 +10,7 @@ The app contains couple of questions where the user has to answer it by True or 
 ● Progress Bar where the user can see his progress answering to questions
 ● Background image
 ● Stack View and Constraints
+
+
+<img src="Documentation/1024.png" width="150"/>
+<img src="Documentation/Screenshot.png" width="300"/>
